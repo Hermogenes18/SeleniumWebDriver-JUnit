@@ -86,7 +86,7 @@ public void junitTest(){
 
 Se ejecuta la script como JUnit y esperamos los resultados.
 
-<img src="./img/run1.png" width="700">
+<img src="./img/run1.png" width="500">
 
 <img src="./img/result1.png" width="700">
 
