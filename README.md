@@ -23,6 +23,7 @@ JUnit es una librería desarrollada para poder probar el funcionamiento de las c
    Proceso =
    - Hacer click en la casilla para ingresar porcentaje e ingresar -5.
    - Hacer click en la casilla del valor a calcular e ingresar 50. <br>
+   - Hacer click en la casilla "calculate".
    <p>Resultado Esperado = -2.5 </p>
 
 
